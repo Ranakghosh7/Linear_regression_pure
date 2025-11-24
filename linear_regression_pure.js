@@ -1,7 +1,7 @@
 /** 
- * ⚡ PURE JAVASCRIPT LINEAR REGRESSION
- * No frameworks. No training wheels. Just math and dominance.
- * This code calculates the exact regression line and predicts with precision.
+ ** ⚡ PURE JAVASCRIPT LINEAR REGRESSION
+ ** No frameworks. No training wheels. Just math and dominance.
+ ** This code calculates the exact regression line and predicts with precision.
  */
 
 // Dataset — the numbers bow before the equation
