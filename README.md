@@ -1,7 +1,11 @@
 # Pure JavaScript Linear Regression  
-This repository contains a complete from-scratch implementation of Linear Regression using pure JavaScript. No libraries, no frameworks, no hidden magic. One file, full math, full control. The goal is simple: prove that machine learning isn’t complicated when you understand the core formulas.
+This repository contains a complete from-scratch implementation of Linear Regression using pure JavaScript. 
+No libraries, no frameworks, no hidden magic. One file, full math, full control. 
+The goal is simple: prove that machine learning isn’t complicated when you understand the core formulas.
 
-Linear Regression tries to fit a straight line through data points using the equation **y = mx + b**, where **m** is the slope and **b** is the intercept. We calculate them using the real statistical formulas:  
+Linear Regression tries to fit a straight line through data points using the equation **y = mx + b**,
+where **m** is the slope and **b** is the intercept. 
+We calculate them using the real statistical formulas:  
 **m = Σ((x - x̄)(y - ȳ)) / Σ((x - x̄)²)**  
 **b = ȳ - m * x̄**  
 These are implemented manually in JavaScript using nothing but arrays and arithmetic operations.
